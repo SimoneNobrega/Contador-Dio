@@ -1,3 +1,4 @@
+#Contador - Desafio Javascript DIO
 Projeto consistia em criar um Contador de números. Aula ministrada por @stebsnusch e ao final foram deixado os seguintes desafios:
 
 Caso você queira ir além, aqui estão algumas dicas de coisas para tentar:
